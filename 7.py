@@ -1,2 +1,2 @@
 c=1+2
-print(c)
+print(c+1)
