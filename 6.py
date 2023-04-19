@@ -1,2 +1,2 @@
 b=2+2
-print(b)
+print(b-1)
